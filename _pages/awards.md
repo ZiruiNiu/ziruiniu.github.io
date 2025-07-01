@@ -12,7 +12,7 @@ author_profile: true
 ## First-Class Scholarship
 * July 2017
 * by Xi’an Jiaotong-Liverpool University
-* Award to **5\%** students of the EEE department.
+* Award to **5%** students of the EEE department.
 
 
 ## 2+2 Program Scholarship

@@ -11,6 +11,8 @@ I am currently a Ph.D. student in control theory at [Imperial College London](ht
 
 I was the recipient of the MSc Control Systems Outstanding Achievement Prize (2021) and the Hertha Ayrton Centenary Prize (2021) for outstanding performance in MSc Control Systems and the outstanding master’s thesis in the Electrical and Electronic Engineering Department, respectively. 
 
+---
+
 News
 =====
 I visited [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/) - [CNRS](https://www.cnrs.fr/fr) to work with Prof. Antoine Girard for two weeks. I had an amazing research experience there, got to know many other amazing students, and learned quite a lot from our collaboration!
@@ -18,6 +20,7 @@ I visited [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupel
 During this visit, I also gave a talk about our recent work **''On the Relation between Hierarchical Control via Abstraction and Moment Matching''** in [the 4th workshop of the RTE Chair at CentraleSupelec](https://rtechair.fr/workshop/).
 
 
+---
 
 Selected Publications
 =====
