@@ -13,7 +13,7 @@ I was the recipient of the MSc Control Systems Outstanding Achievement Prize (20
 
 News
 =====
-I visited [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/) - [CNRS](https://www.cnrs.fr/fr) to work with Prof. Antoine Girard for two weeks. I had an amazing research experience there and learned quite a lot from our collaboration!
+I visited [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/) - [CNRS](https://www.cnrs.fr/fr) to work with Prof. Antoine Girard for two weeks. I had an amazing research experience there, got to know many other amazing students, and learned quite a lot from our collaboration!
 
 Selected Publications
 =====
