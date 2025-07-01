@@ -15,6 +15,10 @@ News
 =====
 I visited [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/) - [CNRS](https://www.cnrs.fr/fr) to work with Prof. Antoine Girard for two weeks. I had an amazing research experience there, got to know many other amazing students, and learned quite a lot from our collaboration!
 
+During this visit, I also gave a talk about our recent work **''On the Relation between Hierarchical Control via Abstraction and Moment Matching''** in [the 4th workshop of the RTE Chair at CentraleSupelec](https://rtechair.fr/workshop/).
+
+
+
 Selected Publications
 =====
 
