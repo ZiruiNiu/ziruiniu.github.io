@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "MyPhoto.png"
-  name             : "Zirui Niu （牛子睿）"
+  name             : "Zirui Niu（牛子睿）"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student on output regulation, hybrid systems, and model order reduction"
   location         : "London, UK"
