@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student in control theory at [Imperial College London](https://www.imperial.ac.uk/), UK, under the supervision of [Dr. Giordano Scarciotti](https://profiles.imperial.ac.uk/g.scarciotti) in the [MAC-X lab](https://giordanoscarciotti.com/mac-x-lab/). My Ph.D. is supported by the CSC-Imperial Scholarship. 
 
-The central theme of my PhD research is *Interconnection-based Stabilisation, Observation, Regulation, and Approximate Simulation: Nonlinear, Non-smooth, and Data-Driven Extensions*. Specifically, my work spans diverse topics, including output regulation, hybrid systems, model reduction, and data-driven control. Despite this breadth, all my research is unified by a foundational reliance on interconnection frameworks and Sylvester equations to analyse the behaviours of complex systems. 
+The central theme of my PhD research is ***Interconnection-based Stabilisation, Observation, Regulation, and Approximate Simulation: Nonlinear, Non-smooth, and Data-Driven Extensions***. Specifically, my work spans diverse topics, including output regulation, hybrid systems, model reduction, and data-driven control. Despite this breadth, all my research is unified by a foundational reliance on interconnection frameworks and Sylvester equations to analyse the behaviours of complex systems. 
 
 I was the recipient of the MSc Control Systems Outstanding Achievement Prize (2021) and the Hertha Ayrton Centenary Prize (2021) for outstanding performance in MSc Control Systems and the outstanding master’s thesis in the Electrical and Electronic Engineering Department, respectively. 
 
