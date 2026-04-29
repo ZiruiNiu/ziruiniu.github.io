@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Articles
 
 * **Z. Niu**, A. Girard, and G. Scarciotti, “Approximate simulation-based hierarchical control of nonlinear systems,”
-IEEE Transactions on Automatic Control (under review), 2026, arXiv:2505.21209. [Online]. Available:
+IEEE Transactions on Automatic Control (under review), 2026, arXiv:2604.20509. [Online]. Available:
 [https://arxiv.org/abs/2604.20509](https://arxiv.org/abs/2604.20509)
 
 * **Z. Niu**, G. Scarciotti, and A. Astolfi, “Interconnection-based model reduction for linear hybrid systems,”
@@ -24,7 +24,7 @@ Unmanned Systems, pp. 1–18, 2026, [Online]. Available:
 [https://www.worldscientific.com/doi/abs/10.1142/S2301385026410104](https://www.worldscientific.com/doi/abs/10.1142/S2301385026410104)
 
 * **Z. Niu**, D. Astolfi, and G. Scarciotti, “Output regulation of linear systems with non-periodic non-smooth
-exogenous signals,” submitted to IEEE Transactions on Automatic Control, 2025, arXiv:2505.21209. [Online].
+exogenous signals,” IEEE Transactions on Automatic Control (under review), 2025, arXiv:2505.21209. [Online].
 Available: [https://arxiv.org/abs/2505.21209](https://arxiv.org/abs/2505.21209)
 
 * **Z. Niu**, K. Chen, and G. Scarciotti, “Adaptive observer-based output regulation with non-smooth non-periodic
@@ -55,7 +55,7 @@ IFAC-PapersOnLine (13th IFAC Symposium on Nonlinear Control Systems), vol. 59, n
 [Online]. Available: [https://www.sciencedirect.com/science/article/pii/S2405896325017008](https://www.sciencedirect.com/science/article/pii/S2405896325017008)
 
 * **Z. Niu**, H. Zhang, and G. Scarciotti, “Full-information output regulation of linear systems with non-periodic
-non-smooth exogenous signals,” in Proceedings of the 22th European Control Conference (ECC), 2024, pp.
+non-smooth exogenous signals,” in Proceedings of the 22nd European Control Conference, 2024, pp.
 2593–2598, [Online]. Available: [https://ieeexplore.ieee.org/abstract/document/10591190](https://ieeexplore.ieee.org/abstract/document/10591190)
 
 * **Z. Niu** and G. Scarciotti, “Modelling and control of COVID-19 in small environments with two-group

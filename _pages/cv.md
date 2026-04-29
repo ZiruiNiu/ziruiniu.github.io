@@ -15,14 +15,14 @@ redirect_from:
 
 * Ph.D. in Control Theory, Imperial College London, Oct. 2022 - Oct. 2026 (expected)
 * M.S. in Control Systems, Imperial College London, Oct. 2020 – Oct. 2021
-* B.Eng. in (Hons) Electronic Engineerin, University of Liverpool, Sept. 2018 - June 2020
-* B.Eng. in (Hons) Electronic Engineerin, Xi’an Jiaotong-Liverpool University, Sept. 2016 - June 2018
+* B.Eng. in (Hons) Electronic Engineering, University of Liverpool, Sept. 2018 - June 2020
+* B.Eng. in (Hons) Electronic Engineering, Xi’an Jiaotong-Liverpool University, Sept. 2016 - June 2018
 
 
 ## Publications
 
 * **Z. Niu**, A. Girard, and G. Scarciotti, “Approximate simulation-based hierarchical control of nonlinear systems,”
-IEEE Transactions on Automatic Control (under review), 2026, arXiv:2505.21209. [Online]. Available:
+IEEE Transactions on Automatic Control (under review), 2026, arXiv:2604.20509. [Online]. Available:
 [https://arxiv.org/abs/2604.20509](https://arxiv.org/abs/2604.20509)
 
 * **Z. Niu** and G. Scarciotti, “Output regulation of linear discrete-time systems with arbitrary exogenous signals –
@@ -55,13 +55,16 @@ IFAC-PapersOnLine (13th IFAC Symposium on Nonlinear Control Systems), vol. 59, n
 exogenous signals,” IEEE Control Systems Letters, 2024, [Online]. Available:
 [https://ieeexplore.ieee.org/abstract/document/10555317](https://ieeexplore.ieee.org/abstract/document/10555317)
 
+
 * **Z. Niu**, H. Zhang, and G. Scarciotti, “Full-information output regulation of linear systems with non-periodic
-non-smooth exogenous signals,” in Proceedings of the 22th European Control Conference (ECC), 2024, pp.
+non-smooth exogenous signals,” in Proceedings of the 22nd European Control Conference, 2024, pp.
 2593–2598, [Online]. Available: [https://ieeexplore.ieee.org/abstract/document/10591190](https://ieeexplore.ieee.org/abstract/document/10591190)
+
 
 * **Z. Niu** and G. Scarciotti, “Modelling and control of COVID-19 in small environments with two-group
 population,” in IFAC-PapersOnLine (22nd IFAC World Congress), vol. 56, no. 2, 2023, pp. 5071–5076, [Online].
 Available: [https://www.sciencedirect.com/science/article/pii/S2405896323016920](https://www.sciencedirect.com/science/article/pii/S2405896323016920)
+
 
 * **Z. Niu** and G. Scarciotti, “Ranking the effectiveness of non-pharmaceutical interventions to counter COVID-19
 in UK universities with vaccinated population,” Scientific reports, vol. 12, no. 1, p. 13039, 2022, [Online].

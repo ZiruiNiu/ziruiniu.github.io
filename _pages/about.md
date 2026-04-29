@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student in control theory at [Imperial College London](https://www.imperial.ac.uk/), UK, under the supervision of [Dr. Giordano Scarciotti](https://profiles.imperial.ac.uk/g.scarciotti) in the [MAC-X lab](https://giordanoscarciotti.com/mac-x-lab/). My Ph.D. is supported by the CSC-Imperial Scholarship. 
 
-The central theme of my PhD research is ``*Interconnection-based Stabilisation, Observation, Regulation, and Approximate Simulation: Nonlinear, Non-smooth, and Data-Driven Extensions*''. Specifically, my work spans diverse topics, including output regulation, hybrid systems, model reduction, and data-driven control. Despite this breadth, all my research is unified by a foundational reliance on interconnection frameworks and Sylvester equations to analyse the behaviours of complex systems. 
+The central theme of my PhD research is *Interconnection-based Stabilisation, Observation, Regulation, and Approximate Simulation: Nonlinear, Non-smooth, and Data-Driven Extensions*. Specifically, my work spans diverse topics, including output regulation, hybrid systems, model reduction, and data-driven control. Despite this breadth, all my research is unified by a foundational reliance on interconnection frameworks and Sylvester equations to analyse the behaviours of complex systems. 
 
 I was the recipient of the MSc Control Systems Outstanding Achievement Prize (2021) and the Hertha Ayrton Centenary Prize (2021) for outstanding performance in MSc Control Systems and the outstanding master’s thesis in the Electrical and Electronic Engineering Department, respectively. 
 
@@ -28,7 +28,7 @@ Selected Publications
 =====
 
 * **Z. Niu**, A. Girard, and G. Scarciotti, “Approximate simulation-based hierarchical control of nonlinear systems,”
-IEEE Transactions on Automatic Control (under review), 2026, arXiv:2505.21209. [Online]. Available:
+IEEE Transactions on Automatic Control **(under review)**, 2026, arXiv:2604.20509. [Online]. Available:
 [https://arxiv.org/abs/2604.20509](https://arxiv.org/abs/2604.20509)
 
 * **Z. Niu**, G. Scarciotti, and A. Astolfi, “Interconnection-based model reduction for linear hybrid systems,”
