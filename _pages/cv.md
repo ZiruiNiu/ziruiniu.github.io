@@ -32,8 +32,7 @@ model-based and data-driven methods,” in 65th IEEE Conference on Decision and 
 regulation,” in 27th International Symposium on Mathematical Theory of Networks and Systems (to appear),
 2026
 
-* **Z. Niu**, M. F. Shakib, and G. Scarciotti, “A new output-feedback hierarchical control using approximate
-simulation: Towards data-driven synthesis,” in 23rd IFAC World Congress (to appear), 2026
+* **Z. Niu**, M. F. Shakib, and G. Scarciotti, “Output-Feedback Hierarchical Control using Approximate Simulation -- Towards a Data-Driven Implementation,” in 23rd IFAC World Congress (to appear), 2026
 
 * **Z. Niu**, G. Scarciotti, and A. Astolfi, “Interconnection-based model reduction for linear hybrid systems,”
 Unmanned Systems, pp. 1–18, 2026, [Online]. Available:
